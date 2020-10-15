@@ -1,4 +1,7 @@
 module.exports = {
+  siteMetadata: {
+    title: `JessMadeline, UI Developer`
+  },
   plugins: [
     `gatsby-plugin-sass`,
     {
