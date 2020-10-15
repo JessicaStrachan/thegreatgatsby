@@ -9,6 +9,7 @@ export default function Home() {
       <div style={{ color: `purple`}}>
         <Link to="/contact/">Contact</Link>
         <Link to="/about/">About</Link>
+        <Link to="/pandas/">Pandas</Link>
         <a href="https://twitter.com/JessMadeline" target="_blank">Twitter</a>
         <Header headerText="Home" />
         <p>What a world</p>
